@@ -1,1 +1,1 @@
-# mean-stack-azure-deploy
+# mean-stack-azure-deploy-test
